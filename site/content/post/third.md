@@ -7,7 +7,7 @@ Lo mismo que [aquí](https://test-hugo-01.netlify.com/post/crear-sitios-webs-con
 
 El [siguiente ejemplo](https://test-hugo-03.netlify.com/) es una mezcla de las dos anteriores:
 
-![image](static/images/RblogwdownGitHubHugoNetifly.png)
+![image](https://raw.githubusercontent.com/joanh/casper-cms-template/master/site/static/images/RblogwdownGitHubHugoNetifly.png)
 
 que incidentalmente es la [recomendada por *Yihui*](https://bookdown.org/yihui/blogdown/workflow.html):
 

@@ -13,4 +13,6 @@ que incidentalmente es la [recomendada por *Yihui*](https://bookdown.org/yihui/b
 
 >It can be much easier to publish a website if you are familiar with GIT and GitHub. We recommend that you create a new site on Netlify from your GitHub repository that contains the source files of your website, so that you can enjoy the benefits of continuous deployment instead of manually uploading the public/ folder every time. With this approach, you do not need to run blogdown::hugo_build() locally, because the website can be built on Netlify via Hugo. See [Chapter 3](https://bookdown.org/yihui/blogdown/deployment.html#deployment) for more information.
 
+---
+
 La imagen está sacada de éste interesante artículo: [Migrating blog to Blogdown](https://mikeyharper.uk/migrating-to-blogdown/).

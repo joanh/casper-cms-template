@@ -6,8 +6,8 @@ title: Probando Hugo
 Lo mismo que [aquí](https://test-hugo-01.netlify.com/post/crear-sitios-webs-con-hugo-y-rstudio/), utilizando otro tema ([Casper](https://github.com/vjeantet/hugo-theme-casper)), y publicando directamente desde [Netlify](https://app.netlify.com/start) conectando automáticamente con el correspondiente [repositorio de GitHub](https://github.com/joanh/casper-cms-template)), lo cual permite editar la web y ver los resultados tan pronto como hagas `git commit` y `git push`.
 
 El siguiente paso es una mezcla de las dos anteriores
-## D:\Developer\Hugo\prueba02\casper-cms-template\site\static\images\RblogwdownGitHubHugoNetifly.png
-![image](images\RblogwdownGitHubHugoNetifly.png)
+
+![image](static/images/RblogwdownGitHubHugoNetifly.png)
 
 que incidentalmente es la [recomendada por *Yihui*](https://bookdown.org/yihui/blogdown/workflow.html):
 

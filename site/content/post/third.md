@@ -3,9 +3,9 @@ date: 2018-08-07T10:24:16-04:00
 title: Probando Hugo
 ---
 
-Lo mismo que [aquí](https://test-hugo-01.netlify.com/post/crear-sitios-webs-con-hugo-y-rstudio/), utilizando otro tema ([Casper](https://github.com/vjeantet/hugo-theme-casper)), y publicando directamente desde [Netlify](https://app.netlify.com/start) conectando automáticamente con el correspondiente [repositorio de GitHub](https://github.com/joanh/casper-cms-template)), lo cual permite editar la web y ver los resultados tan pronto como hagas `git commit` y `git push`.
+Lo mismo que [aquí](https://test-hugo-01.netlify.com/post/crear-sitios-webs-con-hugo-y-rstudio/), utilizando otro tema ([Casper](https://github.com/vjeantet/hugo-theme-casper)), y publicando directamente desde [Netlify](https://app.netlify.com/start) conectando automáticamente con el correspondiente [repositorio de GitHub](https://github.com/joanh/casper-cms-template)), lo cual permite editar la web y ver los resultados tan pronto como hagas `git commit` y `git push`. Netlify tiene además plantillas [JAMstack](https://jamstack.org/) perfectas para publicar rápidamente sitios no sólo con Hugo, sino también a través de Gatsby, React y otras tecnologías.   
 
-El [siguiente ejemplo](https://test-hugo-03.netlify.com/) es una mezcla de las dos anteriores:
+El [siguiente ejemplo](https://test-hugo-04.netlify.com/) es una mezcla de las dos anteriores:
 
 ![image](https://raw.githubusercontent.com/joanh/casper-cms-template/master/site/static/images/RblogwdownGitHubHugoNetifly.png)
 
